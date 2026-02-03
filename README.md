@@ -2,6 +2,10 @@
 
 Monorepo with "form" component in two versions: vanilla JavaScript and React.
 
+## Design
+
+[Figma](https://www.figma.com/design/mmJy8BwGYUHHcRfypE5aPL/FORM_Mate)
+
 ## Installation
 
 ```bash
